@@ -1,1 +1,1 @@
-# tinkoff_NLP_test
+# Text_classification_for_GLUE_tasks
